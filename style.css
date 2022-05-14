@@ -1,0 +1,15 @@
+body {
+    background-color: black; 
+    color: aliceblue; 
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    border-radius: 150px; 
+    width: 250px
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
